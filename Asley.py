@@ -1,4 +1,3 @@
-# coded by hiccup 2021.10.6 to ashley
 import sys
 import argparse
 
